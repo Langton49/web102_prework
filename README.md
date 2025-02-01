@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/Langton49/web102_prework/blob/main/assets/webPreWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LICEcap](https://www.bing.com/search?q=licecap&cvid=380613fd7fcf4d83a0a71e77627bb5d0&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg5MgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQRRg8MgYICBBFGDzSAQgxNTk2ajBqNKgCCLACAQ&FORM=ANAB01&ucpdpc=UCPD&PC=U531)  
+GIF created with [LICEcap](https://www.cockos.com/licecap/)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
