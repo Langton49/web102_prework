@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-No trouble with development.
+Development was clean and simple. Instructions and tutorials were a big help.
 
 ## License
 
